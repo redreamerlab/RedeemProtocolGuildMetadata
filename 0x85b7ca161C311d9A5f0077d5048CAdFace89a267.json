@@ -1,0 +1,12 @@
+{
+    "attributes":
+    [
+        {
+            "trait_type": "RPT-G",
+            "value": 12500000
+        }
+    ],
+    "external_url": "https://redreamer.org/",
+    "image": "https://github.com/redreamerlab/api/blob/master/RedeemProtocolGuildMetadata/images/Pioneer.png",
+    "name": "Redeem Protocol Guild - Pioneer"
+}
